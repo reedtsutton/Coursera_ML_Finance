@@ -4,4 +4,6 @@
 ### Leo Breiman, “Statistical Modeling: The Two Cultures” (http://www2.math.uu.se/~thulin/mm/breiman.pdf)  
 - Two cultures in statistical modeling to produce or reach conclusions; (1) stochastic models (assuming randomly generated data according to a probability distribution- think traditional statistics), and (2) algorithmic modelling that disregards the data generating mechanism.
 - 98% of statisticians use (1), but many people use (2) for applying statistics to other field, and industry. This is what most ML falls into as well.
+- When a model is fit to data to draw quantitative conclusions: * The conclusions are about the model's mechanism, and not about nature's mechanism. It follows that: * If the model is a poor emulation of nature, the conclusions may be wrong.
+- 
 
