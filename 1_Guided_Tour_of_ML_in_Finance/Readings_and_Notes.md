@@ -12,3 +12,5 @@
 - Support vector machines have proved to be, in many cases, more accurate predictors in classification and regression than neural nets. 
 - Multiplicity problem (Rashomon Effect): The picture of which covariates are important can vary significantly between two models having the same deviance. Model can become unstable when you remove covariates, depending on which ones you remove. Solution is bagging or ensembling in ML!
 - Single trees, easily interpretable, B+ in prediction, Forests of trees, A+ in prediction, but suffer lower interpretability. 
+- Trying to choose between accuracy and interpretability is not always the right question. The goal of statistical analysis is accurate information, not interpretable information. Random forests can give more reliable information about covariates strengths, even if they don't give much information about how those covariates produce the response. 
+- Instead, a new paradigm is that, higher predictive accuracy is associated with more reliable information about the underlying data mechanism, whereas low predictive accuracy can lead to questionable conclusions. Algorithmic models give better predictive accuracy. 
