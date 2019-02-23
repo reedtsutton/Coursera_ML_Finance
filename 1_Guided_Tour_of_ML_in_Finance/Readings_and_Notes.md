@@ -1,4 +1,9 @@
-### I. Goodfellow, Y. Bengio, A. Courville, “Deep Learning”, Chapters 4.5, 5.1, 5.2, 5.3, 5.4
+### I. Goodfellow, Y. Bengio, A. Courville, “Deep Learning”, 
+
+#### Chapter 4.5 
+
+
+#### Chapter 5.1, 5.2, 5.3, 5.4
 
 
 ### Leo Breiman, “Statistical Modeling: The Two Cultures” (http://www2.math.uu.se/~thulin/mm/breiman.pdf)  
